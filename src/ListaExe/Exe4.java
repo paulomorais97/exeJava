@@ -23,6 +23,8 @@ public class Exe4 {
 		s = (int)Math.pow((b+c), 2);
 		d = (r+s)/2;
 		
+	
+		
 		System.out.println("Expressão...\nS = B+C²\nR = A+B²\nD = R+S/2");
 		System.out.println("-------------------");
 		System.out.println("Valor de R: "+r);

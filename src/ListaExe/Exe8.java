@@ -1,12 +1,13 @@
 package ListaExe;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Exe8 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Locale.setDefault(Locale.US); // Roda primeiro com comando US.
 		Scanner ler = new Scanner(System.in);
 		
 		double custoFabrica, custoConsumidor, diferenca;

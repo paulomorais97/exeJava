@@ -7,7 +7,7 @@ public class Exe7 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Random r = new Random();
-		float a,b,c,d,e ,f, x=0, y=0;
+		double a,b,c,d,e ,f, x=0, y=0;
 
 		
 		a=r.nextInt(100);
